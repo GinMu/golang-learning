@@ -1,4 +1,4 @@
-package trans
+package chapter4
 
 import "math"
 
